@@ -1,2 +1,2 @@
 # StrategyGame
-# <a href="https://nekekys.github.io/MyCookBook">Ссылка</a>
+# <a href="https://nekekys.github.io/StrategyGame/">Ссылка</a>
